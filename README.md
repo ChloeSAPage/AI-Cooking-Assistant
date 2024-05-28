@@ -26,7 +26,7 @@ Welcome to AI Cooking Assistant – your ultimate culinary assistant! Our app ha
 
 ## View Project
 
-<https://team-wolf.netlify.app/>
+https://ai-cooking-assistant.netlify.app/
 
 ## Our Stack
 
