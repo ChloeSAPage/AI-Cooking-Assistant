@@ -1,6 +1,6 @@
 # Ai Cooking Assistant
 
-A repo for Chloe, kamila and Helder's 2st group project.
+This was the second group project completed while being a trainee web developer at TechNative Academy.
 
 ## Table of Contents
 
@@ -31,8 +31,7 @@ https://ai-cooking-assistant.netlify.app/
 ## Our Stack
 
 - React:
-we decided to use React as it is a great choice for this type of web app because: 
-of its because component-based architecture, 
+we decided to use React as it is a great choice for this type of web app due to it's component-based architecture and
 ease of use.
 - Redux:
 To fetch API  and display products and get the response of AI
@@ -43,13 +42,11 @@ To fetch API  and display products and get the response of AI
 <summary>Day 1</summary>
 On the 1st day we were given a detailed overview about the project and a figma wireframe with the webapp's design.
 
-Our task was to create our own  Ai company and use the provided design to create our webapp.
+Our task was to create our own  AI company and use the provided design to create our webapp.
 
 So first day included figuring out the name of our app and what it would be about:
 We decided to create a webapp related to the culinary field.
-we decided to call our company AI Cooking Assistant.
-
-Also we discussed how were going to approach the task, where we came to the conclusion that we would split the project into sections and create trello tickets for each task, as shown bellow.
+Also, we discussed how were going to approach the task, where we came to the conclusion that we would split the project into sections and create trello tickets for each task, as shown bellow.
 
 ### Trello Board
 
@@ -59,11 +56,11 @@ Also we discussed how were going to approach the task, where we came to the conc
 Already on the first day we implemented some of the amazing designs we had in mind.
 
 With a mobile first approach, since we believe most of our users would use our app on the go.
-(Eg busy person could look up a recipe on their way home and buy the ingredients before they get there.)
+(E.g. busy person could look up a recipe on their way home and buy the ingredients before they get there.)
 
 ### Home:
 
-#### mobile view:
+#### Mobile view:
 
 ![alt text](public/images/readMeImages/mobileViewDay1.png)
 ![alt text](public/images/readMeImages/mobileViewDay1Menu.png)
@@ -111,7 +108,7 @@ On the 3rd day, we added a new page to our app that would provide users with inf
 <details>
 <summary>Day 4</summary>
 
-On the fourth day, we aimed to enhance the app’s design even more. So We sought feedback from our design team and friends, generating additional tickets on our Trello board.
+On the fourth day, we aimed to enhance the app’s design even more. So we sought feedback from our design team and friends, generating additional tickets on our Trello board.
 
 ![alt text](public/images/readMeImages/day4TrelloBoard.png)
 
@@ -120,7 +117,7 @@ On the fourth day, we aimed to enhance the app’s design even more. So We sough
 <details>
 <summary>Day 5</summary>
 
- on the 5th day we implemented the design changes to our app. Giving us the final product that would be ready to go live.
+ On the 5th day we implemented the design changes to our app. Giving us the final product that would be ready to go live.
 
 ### Home:
 ![alt text](public/images/readMeImages/day5home.png)
@@ -139,16 +136,6 @@ On the fourth day, we aimed to enhance the app’s design even more. So We sough
 
 </details>
 
-## Installation
-
-  None
-
-## Usage
-
-### As a user
-
-As a user i want to be able to get personalized cooking recipes tailored to my taste, preferences, dietary needs, and ingredient availability.
-
 ## License
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -161,10 +148,5 @@ As a user i want to be able to get personalized cooking recipes tailored to my t
 
 ### [Helder Balbino](https://github.com/HelderBalbino)
 
-## Tests
-
-  None
-
 ## Questions
-
-  Please reach out to us if you have any questions.
+  Please reach out if you have any questions.
